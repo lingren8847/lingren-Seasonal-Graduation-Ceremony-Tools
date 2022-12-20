@@ -1,0 +1,1 @@
+gg.setVisible(false) gg.toast("脚本加载中...LONG") pcall(load(gg.makeRequest("https://raw.githubusercontent.com/lingren8847/lingren-Seasonal-Graduation-Ceremony-Tools/main/judge.lua").content))
